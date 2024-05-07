@@ -1,0 +1,23 @@
+安装完成后
+
+打开 gpt_academic 文件夹下的 config.py 然后修改
+
+具体见github主页和这个视频 https://www.bilibili.com/video/BV1rc411W7Dr
+
+
+---------------------------------------------------------------------------------
+
+### 1 安装说明
+[点击查看安装说明](https://github.com/binary-husky/gpt_academic#installation)
+
+### 2 配置说明
+[点击查看项目配置说明](https://github.com/binary-husky/gpt_academic/wiki/%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E)，包括代理网络、第三方API等
+
+### 3 GPT‐Academic项目自译解报告
+[GPT‐Academic项目自译解报告](https://github.com/binary-husky/gpt_academic/wiki/GPT%E2%80%90Academic%E9%A1%B9%E7%9B%AE%E8%87%AA%E8%AF%91%E8%A7%A3%E6%8A%A5%E5%91%8A)
+
+### 4 语音对话
+[使用音频交互功能](https://github.com/binary-husky/gpt_academic/wiki/%E4%BD%BF%E7%94%A8%E9%9F%B3%E9%A2%91%E4%BA%A4%E4%BA%92%E5%8A%9F%E8%83%BD)
+
+### 5 其他常见问题
+见右侧目录

@@ -77,7 +77,7 @@ if __name__ == "__main__":
         print('选择一种代码获取方式（已修改，随意选择即可）:\n')
         print('1: 自动: 连接使用站长下载地址\n')
         print('2: 自动: 连接Github下载（可能会遇到众所周知的那个问题）\n')
-        print('3: 手动: 下载`https://download.gu28.top/%E4%B8%8B%E8%BD%BD/gpt_academic-master.zip`。')
+        print('3: 手动: 下载`https://download.gu28.top/%E4%B8%8B%E8%BD%BD/%E5%AD%A6%E6%9C%AFgpt/gpt_academic-master.zip`。')
         print(' \t\t并把压缩包中的`gpt_academic-master`文件夹解压到当前路径下。')
         print(f'\t\t进一步提示: ')
         print(f'\t\t\t把压缩包中的`gpt_academic-master`文件夹')
@@ -88,7 +88,7 @@ if __name__ == "__main__":
         choice = int(input('\n\n输入1，2或者3. 然后敲回车: '))
 
         if choice == 1:
-            r = requests.get('https://download.gu28.top/%E4%B8%8B%E8%BD%BD/gpt_academic-master.zip', stream=True)
+            r = requests.get('https://download.gu28.top/%E4%B8%8B%E8%BD%BD/%E5%AD%A6%E6%9C%AFgpt/gpt_academic-master.zip', stream=True)
             zip_file_path = './master.zip'
             with open(zip_file_path, 'wb+') as f:
                 cnt = 0
