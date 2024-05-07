@@ -1,0 +1,5 @@
+以安装langchain为例，一般只需要
+    pip install langchain
+
+但一键安装版需要 
+    .\installer_files\env\python.exe -m pip install langchain
